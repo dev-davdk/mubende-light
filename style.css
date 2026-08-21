@@ -9,7 +9,7 @@
     height: ;
 }
 
-.banner h1{
+.banner div{
     position:absolute;
     top: 50%;
     left:50%;
@@ -17,7 +17,16 @@
     color: #ffffff;
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7);
     text-align: center;
-    width: 90%;
-    font-size: 3em;   
+    width: 80%;
+     
 
+}
+
+.banner>div>p{
+    font-size: 1em;
+    width: ;
+}
+
+.banner>div>h1{
+    font-size: 3em;
 }
