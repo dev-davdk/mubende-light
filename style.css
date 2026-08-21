@@ -42,7 +42,7 @@
 .about-us{
     height: 300px;
     margin: auto;
-    background-color: aqua;
+    background-color: rgb(179, 248, 248);
     display: flex;
     align-items: center;
     justify-content: center;
@@ -67,3 +67,12 @@
 .about-us h3{
     font-size:4em;
     text-align: center;
+
+}
+.more{
+    margin-top: 3px;
+}
+
+.more div{
+    border-radius: 5px;
+}
